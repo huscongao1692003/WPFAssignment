@@ -1,0 +1,34 @@
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\WPF.Service.deps.json
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\WPF.Service.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\WPF.Service.pdb
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\BusinessObject.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\Repository.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\BusinessObject.pdb
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\Repository.pdb
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\WPF.Service.csproj.AssemblyReference.cache
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\WPF.Service.GeneratedMSBuildEditorConfig.editorconfig
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\WPF.Service.AssemblyInfoInputs.cache
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\WPF.Service.AssemblyInfo.cs
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\WPF.Service.csproj.CoreCompileInputs.cache
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\WPF.Service.csproj.CopyComplete
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\WPF.Service.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\refint\WPF.Service.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\WPF.Service.pdb
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\ref\WPF.Service.dll
+C:\Users\tokyo\Documents\Ass01Solution\Service\bin\Debug\net7.0\WPF.Service.deps.json
+C:\Users\tokyo\Documents\Ass01Solution\Service\bin\Debug\net7.0\WPF.Service.dll
+C:\Users\tokyo\Documents\Ass01Solution\Service\bin\Debug\net7.0\WPF.Service.pdb
+C:\Users\tokyo\Documents\Ass01Solution\Service\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\tokyo\Documents\Ass01Solution\Service\bin\Debug\net7.0\Repository.dll
+C:\Users\tokyo\Documents\Ass01Solution\Service\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\tokyo\Documents\Ass01Solution\Service\bin\Debug\net7.0\Repository.pdb
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\WPF.Service.csproj.AssemblyReference.cache
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\WPF.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\WPF.Service.AssemblyInfoInputs.cache
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\WPF.Service.AssemblyInfo.cs
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\WPF.Service.csproj.CoreCompileInputs.cache
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\WPF.Serv.797CC8A6.Up2Date
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\WPF.Service.dll
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\refint\WPF.Service.dll
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\WPF.Service.pdb
+C:\Users\tokyo\Documents\Ass01Solution\Service\obj\Debug\net7.0\ref\WPF.Service.dll

@@ -1,0 +1,53 @@
+﻿<Window x:Class="SalesManagement.OrderManagement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SalesManagement"
+        mc:Ignorable="d"
+        Title="OrderManagement" Height="670" Width="800">
+    <Grid>
+        <Grid>
+            <Grid.Background>
+                <SolidColorBrush Color="#EEEDEB" />
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="15*"/>
+                <RowDefinition Height="70*"/>
+                <RowDefinition Height="15*"/>
+            </Grid.RowDefinitions>
+
+            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Margin="0 0 0 0">
+                <StackPanel>
+                    <Label Height="auto" Content="Start Date"/>
+                    <DatePicker Name="StartDate" Width="200" Height="30" Margin="0 0 5 0"></DatePicker>
+                </StackPanel>
+                <StackPanel>
+                    <Label Height="auto" Content="End Date"/>
+                    <DatePicker Name="EndDate" Width="200" Height="30" Margin="0 0 5 0"></DatePicker>
+                </StackPanel>
+                <Button Width="80" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="Button_Search" Background="#FFDF4C41" BorderBrush="White" Foreground="White">
+                    Search
+                </Button>
+            </WrapPanel>
+
+            <Label x:Name="label" Content="Order Management" FontFamily="Montserrat" FontWeight="Heavy" Grid.Row="0" FontSize="36" HorizontalAlignment="Center" Width="466"/>
+
+            <DataGrid x:Name="dgData" Margin ="0,4,0,4" Grid.Row="2" AutoGenerateColumns="False" ItemsSource="{Binding YourDataSource}" CanUserAddRows="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Order ID" Binding="{Binding OrderId}" Width="*"/>
+                    <DataGridTextColumn Header="Member ID" Binding="{Binding MemberId}" Width="*"/>
+                    <DataGridTextColumn Header="Order Date" Binding="{Binding OrderDate}" Width="*"/>
+                    <DataGridTextColumn Header="Required Date" Binding="{Binding RequiredDate}" Width="*"/>
+                    <DataGridTextColumn Header="Shipped Date" Binding="{Binding ShippedDate}" Width="*"/>
+                    <DataGridTextColumn Header="Freight" Binding="{Binding Freight}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <Button x:Name="btnClose" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="3" Height="50" Width="120" Background="#FFEF8F18" Foreground="White" Click="btnClose_Click">Close</Button>
+
+        </Grid>
+
+    </Grid>
+</Window>

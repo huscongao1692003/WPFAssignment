@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tokyo\\Documents\\Ass01Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78ACA271-480F-410F-839B-CCAAF64AC579}|SalesManagement\\SalesManagement.csproj|c:\\users\\tokyo\\documents\\ass01solution\\salesmanagement\\productdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ACA271-480F-410F-839B-CCAAF64AC579}|SalesManagement\\SalesManagement.csproj|solutionrelative:salesmanagement\\productdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ACA271-480F-410F-839B-CCAAF64AC579}|SalesManagement\\SalesManagement.csproj|c:\\users\\tokyo\\documents\\ass01solution\\salesmanagement\\productdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78ACA271-480F-410F-839B-CCAAF64AC579}|SalesManagement\\SalesManagement.csproj|solutionrelative:salesmanagement\\productdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ACA271-480F-410F-839B-CCAAF64AC579}|SalesManagement\\SalesManagement.csproj|c:\\users\\tokyo\\documents\\ass01solution\\salesmanagement\\productmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78ACA271-480F-410F-839B-CCAAF64AC579}|SalesManagement\\SalesManagement.csproj|solutionrelative:salesmanagement\\productmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECCFD5E-D76A-4F50-8A32-4234EEDF2A3B}|Service\\WPF.Service.csproj|c:\\users\\tokyo\\documents\\ass01solution\\service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECCFD5E-D76A-4F50-8A32-4234EEDF2A3B}|Service\\WPF.Service.csproj|solutionrelative:service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManagement.xaml",
+              "DocumentMoniker": "C:\\Users\\tokyo\\Documents\\Ass01Solution\\SalesManagement\\ProductManagement.xaml",
+              "RelativeDocumentMoniker": "SalesManagement\\ProductManagement.xaml",
+              "ToolTip": "C:\\Users\\tokyo\\Documents\\Ass01Solution\\SalesManagement\\ProductManagement.xaml",
+              "RelativeToolTip": "SalesManagement\\ProductManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T02:39:22.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\tokyo\\Documents\\Ass01Solution\\SalesManagement\\ProductDetail.xaml",
+              "RelativeDocumentMoniker": "SalesManagement\\ProductDetail.xaml",
+              "ToolTip": "C:\\Users\\tokyo\\Documents\\Ass01Solution\\SalesManagement\\ProductDetail.xaml",
+              "RelativeToolTip": "SalesManagement\\ProductDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T02:37:13.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tokyo\\Documents\\Ass01Solution\\SalesManagement\\ProductDetail.xaml.cs",
+              "RelativeDocumentMoniker": "SalesManagement\\ProductDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\tokyo\\Documents\\Ass01Solution\\SalesManagement\\ProductDetail.xaml.cs",
+              "RelativeToolTip": "SalesManagement\\ProductDetail.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T02:36:55.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\tokyo\\Documents\\Ass01Solution\\Service\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Product\\ProductService.cs",
+              "ToolTip": "C:\\Users\\tokyo\\Documents\\Ass01Solution\\Service\\Product\\ProductService.cs",
+              "RelativeToolTip": "Service\\Product\\ProductService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T02:36:30.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

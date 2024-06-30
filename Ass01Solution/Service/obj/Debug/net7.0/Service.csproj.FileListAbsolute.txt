@@ -1,0 +1,17 @@
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\Service.deps.json
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\Service.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\Service.pdb
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\Service.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\refint\Service.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\Service.pdb
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\ref\Service.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\BusinessObject.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\Repository.dll
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\Repository.pdb
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\bin\Debug\net7.0\BusinessObject.pdb
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+X:\COLLEGE\7th Semester\PRN221\CODE\Asm1_WPF\Service\obj\Debug\net7.0\Service.csproj.CopyComplete

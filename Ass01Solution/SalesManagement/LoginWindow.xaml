@@ -1,0 +1,99 @@
+﻿<Window x:Class="SalesManagement.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SalesManagement"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        AllowsTransparency="True">
+    <Grid>
+        <Border CornerRadius="30"
+                BorderThickness="2"
+                Opacity="0.95">
+            <Border.Background>
+                <SolidColorBrush Color="AntiqueWhite"/>
+            </Border.Background>
+            <Grid Margin="0,0,0,0">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="60">
+                    <TextBlock Text="LOGIN SCREEN" FontFamily="Montserrat" FontWeight="Heavy" FontSize="30"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical" Margin="0,150,0,0" Width="400">
+                    <TextBlock TextWrapping="Wrap" Margin="0,10,0,0" Text="Email" FontFamily="Montserrat" FontWeight="Heavy" FontSize="15"/>
+                    <TextBox x:Name="txtUser" Margin="0,0,0,0" TextWrapping="Wrap"
+             CaretBrush="LightGray" 
+             BorderBrush="DarkGray" 
+             BorderThickness="0,0,0,2" 
+             VerticalContentAlignment="Center"
+             Height="16">
+                        <TextBox.Background>
+                            <LinearGradientBrush></LinearGradientBrush>
+                        </TextBox.Background>
+                    </TextBox>
+                    <TextBlock TextWrapping="Wrap" Margin="0,10,0,0" Text="Password" FontFamily="Montserrat" FontWeight="Heavy" FontSize="15"/>
+                    <PasswordBox x:Name="txtPass" Margin="0,0,0,0"
+             CaretBrush="LightGray" 
+             BorderBrush="DarkGray" 
+             BorderThickness="0,0,0,2" 
+             VerticalContentAlignment="Center" 
+             Height="16">
+                        <PasswordBox.Background>
+                            <LinearGradientBrush></LinearGradientBrush>
+                        </PasswordBox.Background>
+                    </PasswordBox>
+                    <Button x:Name="btnLogin" Margin="0,40,0,0" Content="Sign In" HorizontalAlignment="Center" 
+            FontFamily="Montserrat"
+            FontWeight="Medium"
+            Cursor="Hand" Click="btnLogin_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#FFF63232"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#FF7C0303"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="100" Height="25"
+                                        CornerRadius="5"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <Button x:Name="btnCancel" Margin="0,20,0,0" Content="Cancel" HorizontalAlignment="Center" 
+            FontFamily="Montserrat"
+            FontWeight="Medium"
+            Cursor="Hand" Click="btnCancel_Click">
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#FFD2B25F"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#FF977F43"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="100" Height="25"
+                            CornerRadius="5"
+                            Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
